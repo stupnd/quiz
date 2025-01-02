@@ -1,0 +1,11 @@
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+  transition: 0.2s ease-in-out;
+}
